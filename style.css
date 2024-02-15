@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+
+li {
+
+
+    list-style: none;
+    display: inline-block;
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+li:hover {
+    background-color:#AF9483;
+   
+    cursor: pointer;
+}
+
+.faol {
+    background-color: #AF9483   ;
+    color: #ffffff;
+    
+}
+
+li:active {
+    background-color: #ff0000;
+    color: #ffffff;
+    cursor: pointer;
+}
+nav {
+    background-color:#AF9483;
+  
+}
+
+.rasm2 {
+    height: 200px;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.rasm2:hover {
+    height: 300px;
+    width: 400px;
+}
+
+.rasm2:active {
+    border-radius: 40%
+}
+
+.rasm3 {
+    height: 50px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+.men {
+    border: 1px solid black;
+    display: inline-block;
+    border-radius: 4px;
+    background-color: white;
+    
+   
+}
+
+.men2 {
+    width: 300px;
+    display: inline-block;
+    border: 1px solid black;
+    margin: 10px;
+}
+.men2:hover {
+    width: 400px;
+}
+
+.men2:active {
+    border-radius: 50%;
+}
+
+h1,h2,h3,p  {
+    color: #AF9483;
+  
+}
+i {
+    font-size: 20px;
+}
+button {
+    font-size: 24px;
+    border-radius: 4px;
+    background-color:aliceblue;
+    color: #AF9483;
+}
+
+button:hover {
+    background-color: #AF9483;
+    color: white;
+}
+button:active {
+    background-color: #ff0000;
+}
+h5 {
+    color: #AF9483;
+}
+
+
+
+
+
+
